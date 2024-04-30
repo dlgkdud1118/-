@@ -65,6 +65,6 @@ public class GameResult implements Serializable{
 		return String.format("[%05d][%s][%d][%d][%s]",no, sdf.format(gameDate), comNo, userNo, result);
 	}
 	
-	String etc = null;
+
 	
 }
