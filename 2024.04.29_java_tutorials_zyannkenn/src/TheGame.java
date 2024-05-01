@@ -70,7 +70,7 @@ public class TheGame{
 	public int inputUserNumber() {
 		String sUserNumber;
 		do {
-				System.out.print("チョキン/ぐっと/ぱっと 入力 (チョキン=1, ぐっと＝2, ぱっと=3 : ");
+				System.out.print("チョキ/グー/パー 入力 (チョキ=1, グー＝2, パー= 3 : ");
 				sUserNumber = scanner.next();
 		} while (!sUserNumber.equals("1") &&
 						!sUserNumber.equals("2") &&
@@ -95,10 +95,10 @@ public class TheGame{
 	
 	public void showResult(int comNumber, int userNumber, String result) {
 		String com;
-		if (comNumber == 1)		com = "チョキン";
-		else if(comNumber ==2)  com = "ぐっと";
-		else					com = "ぱっと";
-		String user = userNumber == 1 ? "チョキン" : (userNumber == 2 ? "ぐっと" : "ぱっと");
+		if (comNumber == 1)		com = "チョキ";
+		else if(comNumber ==2)  com = "グー";
+		else					com = "パー";
+		String user = userNumber == 1 ? "チョキ" : (userNumber == 2 ? "グー" : "パー");
 		System.out.printf("[COMPUTER : %2s]　[USER : %2s]　[RESULT : %s]\n", com, user, result);
 	}
 	
