@@ -1,0 +1,7 @@
+C:\Users\3030897\source\repos\SraricMethod\SraricMethod\bin\Debug\SraricMethod.exe.config
+C:\Users\3030897\source\repos\SraricMethod\SraricMethod\bin\Debug\SraricMethod.exe
+C:\Users\3030897\source\repos\SraricMethod\SraricMethod\bin\Debug\SraricMethod.pdb
+C:\Users\3030897\source\repos\SraricMethod\SraricMethod\obj\Debug\SraricMethod.csproj.AssemblyReference.cache
+C:\Users\3030897\source\repos\SraricMethod\SraricMethod\obj\Debug\SraricMethod.csproj.CoreCompileInputs.cache
+C:\Users\3030897\source\repos\SraricMethod\SraricMethod\obj\Debug\SraricMethod.exe
+C:\Users\3030897\source\repos\SraricMethod\SraricMethod\obj\Debug\SraricMethod.pdb

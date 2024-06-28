@@ -1,0 +1,4 @@
+C:\Users\3030897\source\repos\yutube08\yutube08\obj\Debug\net8.0\yutube08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3030897\source\repos\yutube08\yutube08\obj\Debug\net8.0\yutube08.AssemblyInfoInputs.cache
+C:\Users\3030897\source\repos\yutube08\yutube08\obj\Debug\net8.0\yutube08.AssemblyInfo.cs
+C:\Users\3030897\source\repos\yutube08\yutube08\obj\Debug\net8.0\yutube08.csproj.CoreCompileInputs.cache

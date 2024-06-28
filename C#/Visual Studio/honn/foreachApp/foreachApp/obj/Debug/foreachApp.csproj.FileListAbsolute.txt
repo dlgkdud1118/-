@@ -1,0 +1,11 @@
+C:\Users\3030897\source\repos\foreachApp\foreachApp\bin\Debug\foreachApp.exe.config
+C:\Users\3030897\source\repos\foreachApp\foreachApp\bin\Debug\foreachApp.exe
+C:\Users\3030897\source\repos\foreachApp\foreachApp\bin\Debug\foreachApp.pdb
+C:\Users\3030897\source\repos\foreachApp\foreachApp\obj\Debug\foreachApp.csproj.AssemblyReference.cache
+C:\Users\3030897\source\repos\foreachApp\foreachApp\obj\Debug\foreachApp.Form1.resources
+C:\Users\3030897\source\repos\foreachApp\foreachApp\obj\Debug\foreachApp.Properties.Resources.resources
+C:\Users\3030897\source\repos\foreachApp\foreachApp\obj\Debug\foreachApp.csproj.GenerateResource.cache
+C:\Users\3030897\source\repos\foreachApp\foreachApp\obj\Debug\foreachApp.csproj.CoreCompileInputs.cache
+C:\Users\3030897\source\repos\foreachApp\foreachApp\obj\Debug\foreachApp.exe
+C:\Users\3030897\source\repos\foreachApp\foreachApp\obj\Debug\foreachApp.pdb
+C:\Users\3030897\source\repos\foreachApp\foreachApp\obj\Debug\foreachApp.Form2.resources

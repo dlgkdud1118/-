@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3030897\\source\\repos\\App3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF97129-08CC-4F70-AE33-63C408E0FE54}|App3\\App3.csproj|c:\\users\\3030897\\source\\repos\\app3\\app3\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF97129-08CC-4F70-AE33-63C408E0FE54}|App3\\App3.csproj|solutionrelative:app3\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF97129-08CC-4F70-AE33-63C408E0FE54}|App3\\App3.csproj|c:\\users\\3030897\\source\\repos\\app3\\app3\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8CF97129-08CC-4F70-AE33-63C408E0FE54}|App3\\App3.csproj|solutionrelative:app3\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\source\\repos\\App3\\App3\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "App3\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\3030897\\source\\repos\\App3\\App3\\MainPage.xaml.cs",
+              "RelativeToolTip": "App3\\MainPage.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:00:40.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\3030897\\source\\repos\\App3\\App3\\MainPage.xaml",
+              "RelativeDocumentMoniker": "App3\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\3030897\\source\\repos\\App3\\App3\\MainPage.xaml",
+              "RelativeToolTip": "App3\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T04:56:59.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

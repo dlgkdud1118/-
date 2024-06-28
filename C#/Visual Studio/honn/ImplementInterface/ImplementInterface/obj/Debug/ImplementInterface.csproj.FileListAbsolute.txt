@@ -1,0 +1,10 @@
+C:\Users\3030897\source\repos\ImplementInterface\ImplementInterface\bin\Debug\ImplementInterface.exe.config
+C:\Users\3030897\source\repos\ImplementInterface\ImplementInterface\bin\Debug\ImplementInterface.exe
+C:\Users\3030897\source\repos\ImplementInterface\ImplementInterface\bin\Debug\ImplementInterface.pdb
+C:\Users\3030897\source\repos\ImplementInterface\ImplementInterface\obj\Debug\ImplementInterface.csproj.AssemblyReference.cache
+C:\Users\3030897\source\repos\ImplementInterface\ImplementInterface\obj\Debug\ImplementInterface.Properties.Resources.resources
+C:\Users\3030897\source\repos\ImplementInterface\ImplementInterface\obj\Debug\ImplementInterface.csproj.GenerateResource.cache
+C:\Users\3030897\source\repos\ImplementInterface\ImplementInterface\obj\Debug\ImplementInterface.csproj.CoreCompileInputs.cache
+C:\Users\3030897\source\repos\ImplementInterface\ImplementInterface\obj\Debug\ImplementInterface.exe
+C:\Users\3030897\source\repos\ImplementInterface\ImplementInterface\obj\Debug\ImplementInterface.pdb
+C:\Users\3030897\source\repos\ImplementInterface\ImplementInterface\obj\Debug\ImplementInterface.Form1.resources

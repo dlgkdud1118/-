@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\3030897\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(22,13): error C2440: 'return': 'Vec2' から 'Vec2 &' に変換できません。
+C:\Users\3030897\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(28,6): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません

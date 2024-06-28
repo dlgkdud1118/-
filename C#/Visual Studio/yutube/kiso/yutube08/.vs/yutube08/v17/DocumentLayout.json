@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3030897\\source\\repos\\yutube08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D028FDA-2812-4F8E-B9BB-EFCB73AABB7B}|yutube08\\yutube08.csproj|c:\\users\\3030897\\source\\repos\\yutube08\\yutube08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D028FDA-2812-4F8E-B9BB-EFCB73AABB7B}|yutube08\\yutube08.csproj|solutionrelative:yutube08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\source\\repos\\yutube08\\yutube08\\Program.cs",
+              "RelativeDocumentMoniker": "yutube08\\Program.cs",
+              "ToolTip": "C:\\Users\\3030897\\source\\repos\\yutube08\\yutube08\\Program.cs",
+              "RelativeToolTip": "yutube08\\Program.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAAHMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T07:35:51.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

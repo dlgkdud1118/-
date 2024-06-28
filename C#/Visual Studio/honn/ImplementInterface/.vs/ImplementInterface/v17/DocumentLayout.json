@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3030897\\source\\repos\\ImplementInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE26A2A4-4CA4-47B5-B08C-11F5DF106FD7}|ImplementInterface\\ImplementInterface.csproj|c:\\users\\3030897\\source\\repos\\implementinterface\\implementinterface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE26A2A4-4CA4-47B5-B08C-11F5DF106FD7}|ImplementInterface\\ImplementInterface.csproj|solutionrelative:implementinterface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE26A2A4-4CA4-47B5-B08C-11F5DF106FD7}|ImplementInterface\\ImplementInterface.csproj|c:\\users\\3030897\\source\\repos\\implementinterface\\implementinterface\\isample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE26A2A4-4CA4-47B5-B08C-11F5DF106FD7}|ImplementInterface\\ImplementInterface.csproj|solutionrelative:implementinterface\\isample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE26A2A4-4CA4-47B5-B08C-11F5DF106FD7}|ImplementInterface\\ImplementInterface.csproj|c:\\users\\3030897\\source\\repos\\implementinterface\\implementinterface\\supercls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE26A2A4-4CA4-47B5-B08C-11F5DF106FD7}|ImplementInterface\\ImplementInterface.csproj|solutionrelative:implementinterface\\supercls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE26A2A4-4CA4-47B5-B08C-11F5DF106FD7}|ImplementInterface\\ImplementInterface.csproj|c:\\users\\3030897\\source\\repos\\implementinterface\\implementinterface\\cls1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE26A2A4-4CA4-47B5-B08C-11F5DF106FD7}|ImplementInterface\\ImplementInterface.csproj|solutionrelative:implementinterface\\cls1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE26A2A4-4CA4-47B5-B08C-11F5DF106FD7}|ImplementInterface\\ImplementInterface.csproj|c:\\users\\3030897\\source\\repos\\implementinterface\\implementinterface\\cls2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE26A2A4-4CA4-47B5-B08C-11F5DF106FD7}|ImplementInterface\\ImplementInterface.csproj|solutionrelative:implementinterface\\cls2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE26A2A4-4CA4-47B5-B08C-11F5DF106FD7}|ImplementInterface\\ImplementInterface.csproj|c:\\users\\3030897\\source\\repos\\implementinterface\\implementinterface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE26A2A4-4CA4-47B5-B08C-11F5DF106FD7}|ImplementInterface\\ImplementInterface.csproj|solutionrelative:implementinterface\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\source\\repos\\ImplementInterface\\ImplementInterface\\Form1.cs",
+              "RelativeDocumentMoniker": "ImplementInterface\\Form1.cs",
+              "ToolTip": "C:\\Users\\3030897\\source\\repos\\ImplementInterface\\ImplementInterface\\Form1.cs",
+              "RelativeToolTip": "ImplementInterface\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:02:58.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cls2.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\source\\repos\\ImplementInterface\\ImplementInterface\\Cls2.cs",
+              "RelativeDocumentMoniker": "ImplementInterface\\Cls2.cs",
+              "ToolTip": "C:\\Users\\3030897\\source\\repos\\ImplementInterface\\ImplementInterface\\Cls2.cs",
+              "RelativeToolTip": "ImplementInterface\\Cls2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:58:11.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cls1.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\source\\repos\\ImplementInterface\\ImplementInterface\\Cls1.cs",
+              "RelativeDocumentMoniker": "ImplementInterface\\Cls1.cs",
+              "ToolTip": "C:\\Users\\3030897\\source\\repos\\ImplementInterface\\ImplementInterface\\Cls1.cs",
+              "RelativeToolTip": "ImplementInterface\\Cls1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:54:14.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuperCls.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\source\\repos\\ImplementInterface\\ImplementInterface\\SuperCls.cs",
+              "RelativeDocumentMoniker": "ImplementInterface\\SuperCls.cs",
+              "ToolTip": "C:\\Users\\3030897\\source\\repos\\ImplementInterface\\ImplementInterface\\SuperCls.cs",
+              "RelativeToolTip": "ImplementInterface\\SuperCls.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:48:44.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISample.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\source\\repos\\ImplementInterface\\ImplementInterface\\ISample.cs",
+              "RelativeDocumentMoniker": "ImplementInterface\\ISample.cs",
+              "ToolTip": "C:\\Users\\3030897\\source\\repos\\ImplementInterface\\ImplementInterface\\ISample.cs",
+              "RelativeToolTip": "ImplementInterface\\ISample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:47:45.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\3030897\\source\\repos\\ImplementInterface\\ImplementInterface\\Form1.cs",
+              "RelativeDocumentMoniker": "ImplementInterface\\Form1.cs",
+              "ToolTip": "C:\\Users\\3030897\\source\\repos\\ImplementInterface\\ImplementInterface\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "ImplementInterface\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:46:48.368Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

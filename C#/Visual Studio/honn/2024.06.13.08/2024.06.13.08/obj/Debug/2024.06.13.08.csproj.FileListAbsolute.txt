@@ -1,0 +1,10 @@
+C:\Users\3030897\source\repos\2024.06.13.08\2024.06.13.08\bin\Debug\2024.06.13.08.exe.config
+C:\Users\3030897\source\repos\2024.06.13.08\2024.06.13.08\bin\Debug\2024.06.13.08.exe
+C:\Users\3030897\source\repos\2024.06.13.08\2024.06.13.08\bin\Debug\2024.06.13.08.pdb
+C:\Users\3030897\source\repos\2024.06.13.08\2024.06.13.08\obj\Debug\2024.06.13.08.csproj.AssemblyReference.cache
+C:\Users\3030897\source\repos\2024.06.13.08\2024.06.13.08\obj\Debug\_2024._06._13._08.Form1.resources
+C:\Users\3030897\source\repos\2024.06.13.08\2024.06.13.08\obj\Debug\_2024._06._13._08.Properties.Resources.resources
+C:\Users\3030897\source\repos\2024.06.13.08\2024.06.13.08\obj\Debug\2024.06.13.08.csproj.GenerateResource.cache
+C:\Users\3030897\source\repos\2024.06.13.08\2024.06.13.08\obj\Debug\2024.06.13.08.csproj.CoreCompileInputs.cache
+C:\Users\3030897\source\repos\2024.06.13.08\2024.06.13.08\obj\Debug\2024.06.13.08.exe
+C:\Users\3030897\source\repos\2024.06.13.08\2024.06.13.08\obj\Debug\2024.06.13.08.pdb

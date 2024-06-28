@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3030897\\source\\repos\\CalculateApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5D89BE-C5B6-44B9-9DE9-7E8501C120BB}|CalculateApp\\CalculateApp.csproj|c:\\users\\3030897\\source\\repos\\calculateapp\\calculateapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5D89BE-C5B6-44B9-9DE9-7E8501C120BB}|CalculateApp\\CalculateApp.csproj|solutionrelative:calculateapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5D89BE-C5B6-44B9-9DE9-7E8501C120BB}|CalculateApp\\CalculateApp.csproj|C:\\Users\\3030897\\source\\repos\\CalculateApp\\calculateapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5D89BE-C5B6-44B9-9DE9-7E8501C120BB}|CalculateApp\\CalculateApp.csproj|solutionrelative:calculateapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5D89BE-C5B6-44B9-9DE9-7E8501C120BB}|CalculateApp\\CalculateApp.csproj|C:\\Users\\3030897\\source\\repos\\CalculateApp\\calculateapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D5D89BE-C5B6-44B9-9DE9-7E8501C120BB}|CalculateApp\\CalculateApp.csproj|solutionrelative:calculateapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\source\\repos\\CalculateApp\\CalculateApp\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculateApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\3030897\\source\\repos\\CalculateApp\\CalculateApp\\Form1.cs",
+              "RelativeToolTip": "CalculateApp\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwB8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T06:53:31.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\source\\repos\\CalculateApp\\CalculateApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CalculateApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\3030897\\source\\repos\\CalculateApp\\CalculateApp\\Form1.Designer.cs",
+              "RelativeToolTip": "CalculateApp\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T06:20:54.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\3030897\\source\\repos\\CalculateApp\\CalculateApp\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculateApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\3030897\\source\\repos\\CalculateApp\\CalculateApp\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "CalculateApp\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T05:11:35.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

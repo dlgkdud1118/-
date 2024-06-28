@@ -1,0 +1,7 @@
+C:\Users\3030897\source\repos\ForApp\ForApp\bin\Debug\ForApp.exe.config
+C:\Users\3030897\source\repos\ForApp\ForApp\bin\Debug\ForApp.exe
+C:\Users\3030897\source\repos\ForApp\ForApp\bin\Debug\ForApp.pdb
+C:\Users\3030897\source\repos\ForApp\ForApp\obj\Debug\ForApp.csproj.AssemblyReference.cache
+C:\Users\3030897\source\repos\ForApp\ForApp\obj\Debug\ForApp.csproj.CoreCompileInputs.cache
+C:\Users\3030897\source\repos\ForApp\ForApp\obj\Debug\ForApp.exe
+C:\Users\3030897\source\repos\ForApp\ForApp\obj\Debug\ForApp.pdb

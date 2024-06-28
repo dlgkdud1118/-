@@ -1,0 +1,7 @@
+C:\Users\3030897\source\repos\rennsyuu\rennsyuu\bin\Debug\rennsyuu.exe.config
+C:\Users\3030897\source\repos\rennsyuu\rennsyuu\bin\Debug\rennsyuu.exe
+C:\Users\3030897\source\repos\rennsyuu\rennsyuu\bin\Debug\rennsyuu.pdb
+C:\Users\3030897\source\repos\rennsyuu\rennsyuu\obj\Debug\rennsyuu.csproj.AssemblyReference.cache
+C:\Users\3030897\source\repos\rennsyuu\rennsyuu\obj\Debug\rennsyuu.csproj.CoreCompileInputs.cache
+C:\Users\3030897\source\repos\rennsyuu\rennsyuu\obj\Debug\rennsyuu.exe
+C:\Users\3030897\source\repos\rennsyuu\rennsyuu\obj\Debug\rennsyuu.pdb

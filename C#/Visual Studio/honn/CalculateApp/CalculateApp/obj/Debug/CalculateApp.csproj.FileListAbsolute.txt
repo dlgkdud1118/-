@@ -1,0 +1,10 @@
+C:\Users\3030897\source\repos\CalculateApp\CalculateApp\obj\Debug\CalculateApp.csproj.AssemblyReference.cache
+C:\Users\3030897\source\repos\CalculateApp\CalculateApp\obj\Debug\CalculateApp.Form1.resources
+C:\Users\3030897\source\repos\CalculateApp\CalculateApp\obj\Debug\CalculateApp.Properties.Resources.resources
+C:\Users\3030897\source\repos\CalculateApp\CalculateApp\obj\Debug\CalculateApp.csproj.GenerateResource.cache
+C:\Users\3030897\source\repos\CalculateApp\CalculateApp\obj\Debug\CalculateApp.csproj.CoreCompileInputs.cache
+C:\Users\3030897\source\repos\CalculateApp\CalculateApp\bin\Debug\CalculateApp.exe.config
+C:\Users\3030897\source\repos\CalculateApp\CalculateApp\bin\Debug\CalculateApp.exe
+C:\Users\3030897\source\repos\CalculateApp\CalculateApp\bin\Debug\CalculateApp.pdb
+C:\Users\3030897\source\repos\CalculateApp\CalculateApp\obj\Debug\CalculateApp.exe
+C:\Users\3030897\source\repos\CalculateApp\CalculateApp\obj\Debug\CalculateApp.pdb

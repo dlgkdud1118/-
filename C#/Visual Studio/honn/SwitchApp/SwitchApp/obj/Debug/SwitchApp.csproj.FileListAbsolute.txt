@@ -1,0 +1,10 @@
+C:\Users\3030897\source\repos\SwitchApp\SwitchApp\bin\Debug\SwitchApp.exe.config
+C:\Users\3030897\source\repos\SwitchApp\SwitchApp\bin\Debug\SwitchApp.exe
+C:\Users\3030897\source\repos\SwitchApp\SwitchApp\bin\Debug\SwitchApp.pdb
+C:\Users\3030897\source\repos\SwitchApp\SwitchApp\obj\Debug\SwitchApp.csproj.AssemblyReference.cache
+C:\Users\3030897\source\repos\SwitchApp\SwitchApp\obj\Debug\SwitchApp.Form1.resources
+C:\Users\3030897\source\repos\SwitchApp\SwitchApp\obj\Debug\SwitchApp.Properties.Resources.resources
+C:\Users\3030897\source\repos\SwitchApp\SwitchApp\obj\Debug\SwitchApp.csproj.GenerateResource.cache
+C:\Users\3030897\source\repos\SwitchApp\SwitchApp\obj\Debug\SwitchApp.csproj.CoreCompileInputs.cache
+C:\Users\3030897\source\repos\SwitchApp\SwitchApp\obj\Debug\SwitchApp.exe
+C:\Users\3030897\source\repos\SwitchApp\SwitchApp\obj\Debug\SwitchApp.pdb

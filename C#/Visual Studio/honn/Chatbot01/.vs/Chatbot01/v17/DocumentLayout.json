@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3030897\\source\\repos\\Chatbot01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3694C94-6A93-412C-BABD-1AB4148F4D11}|Chatbot01\\Chatbot01.csproj|C:\\Users\\3030897\\source\\repos\\Chatbot01\\chatbot01\\repeatresponder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3694C94-6A93-412C-BABD-1AB4148F4D11}|Chatbot01\\Chatbot01.csproj|solutionrelative:chatbot01\\repeatresponder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3694C94-6A93-412C-BABD-1AB4148F4D11}|Chatbot01\\Chatbot01.csproj|C:\\Users\\3030897\\source\\repos\\Chatbot01\\chatbot01\\randomresponder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3694C94-6A93-412C-BABD-1AB4148F4D11}|Chatbot01\\Chatbot01.csproj|solutionrelative:chatbot01\\randomresponder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3694C94-6A93-412C-BABD-1AB4148F4D11}|Chatbot01\\Chatbot01.csproj|c:\\users\\3030897\\source\\repos\\chatbot01\\chatbot01\\csharpchan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3694C94-6A93-412C-BABD-1AB4148F4D11}|Chatbot01\\Chatbot01.csproj|solutionrelative:chatbot01\\csharpchan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3694C94-6A93-412C-BABD-1AB4148F4D11}|Chatbot01\\Chatbot01.csproj|C:\\Users\\3030897\\source\\repos\\Chatbot01\\chatbot01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3694C94-6A93-412C-BABD-1AB4148F4D11}|Chatbot01\\Chatbot01.csproj|solutionrelative:chatbot01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3694C94-6A93-412C-BABD-1AB4148F4D11}|Chatbot01\\Chatbot01.csproj|C:\\Users\\3030897\\source\\repos\\Chatbot01\\chatbot01\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3694C94-6A93-412C-BABD-1AB4148F4D11}|Chatbot01\\Chatbot01.csproj|solutionrelative:chatbot01\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3694C94-6A93-412C-BABD-1AB4148F4D11}|Chatbot01\\Chatbot01.csproj|C:\\Users\\3030897\\source\\repos\\Chatbot01\\chatbot01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3694C94-6A93-412C-BABD-1AB4148F4D11}|Chatbot01\\Chatbot01.csproj|solutionrelative:chatbot01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3694C94-6A93-412C-BABD-1AB4148F4D11}|Chatbot01\\Chatbot01.csproj|C:\\Users\\3030897\\source\\repos\\Chatbot01\\chatbot01\\responder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3694C94-6A93-412C-BABD-1AB4148F4D11}|Chatbot01\\Chatbot01.csproj|solutionrelative:chatbot01\\responder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Responder.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\source\\repos\\Chatbot01\\Chatbot01\\Responder.cs",
+              "RelativeDocumentMoniker": "Chatbot01\\Responder.cs",
+              "ToolTip": "C:\\Users\\3030897\\source\\repos\\Chatbot01\\Chatbot01\\Responder.cs",
+              "RelativeToolTip": "Chatbot01\\Responder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:05:03.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepeatResponder.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\source\\repos\\Chatbot01\\Chatbot01\\RepeatResponder.cs",
+              "RelativeDocumentMoniker": "Chatbot01\\RepeatResponder.cs",
+              "ToolTip": "C:\\Users\\3030897\\source\\repos\\Chatbot01\\Chatbot01\\RepeatResponder.cs",
+              "RelativeToolTip": "Chatbot01\\RepeatResponder.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:04:29.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RandomResponder.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\source\\repos\\Chatbot01\\Chatbot01\\RandomResponder.cs",
+              "RelativeDocumentMoniker": "Chatbot01\\RandomResponder.cs",
+              "ToolTip": "C:\\Users\\3030897\\source\\repos\\Chatbot01\\Chatbot01\\RandomResponder.cs",
+              "RelativeToolTip": "Chatbot01\\RandomResponder.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvxMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:04:01.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CSharpchan.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\source\\repos\\Chatbot01\\Chatbot01\\CSharpchan.cs",
+              "RelativeDocumentMoniker": "Chatbot01\\CSharpchan.cs",
+              "ToolTip": "C:\\Users\\3030897\\source\\repos\\Chatbot01\\Chatbot01\\CSharpchan.cs",
+              "RelativeToolTip": "Chatbot01\\CSharpchan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:03:27.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\source\\repos\\Chatbot01\\Chatbot01\\Form1.cs",
+              "RelativeDocumentMoniker": "Chatbot01\\Form1.cs",
+              "ToolTip": "C:\\Users\\3030897\\source\\repos\\Chatbot01\\Chatbot01\\Form1.cs",
+              "RelativeToolTip": "Chatbot01\\Form1.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:01:45.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\source\\repos\\Chatbot01\\Chatbot01\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Chatbot01\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\3030897\\source\\repos\\Chatbot01\\Chatbot01\\Form1.Designer.cs",
+              "RelativeToolTip": "Chatbot01\\Form1.Designer.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwBsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:58:46.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\3030897\\source\\repos\\Chatbot01\\Chatbot01\\Form1.cs",
+              "RelativeDocumentMoniker": "Chatbot01\\Form1.cs",
+              "ToolTip": "C:\\Users\\3030897\\source\\repos\\Chatbot01\\Chatbot01\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "Chatbot01\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:58:39.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

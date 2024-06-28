@@ -1,0 +1,14 @@
+C:\Users\3030897\source\repos\yutube05\yutube05\bin\Debug\net8.0\yutube05.exe
+C:\Users\3030897\source\repos\yutube05\yutube05\bin\Debug\net8.0\yutube05.deps.json
+C:\Users\3030897\source\repos\yutube05\yutube05\bin\Debug\net8.0\yutube05.runtimeconfig.json
+C:\Users\3030897\source\repos\yutube05\yutube05\bin\Debug\net8.0\yutube05.dll
+C:\Users\3030897\source\repos\yutube05\yutube05\bin\Debug\net8.0\yutube05.pdb
+C:\Users\3030897\source\repos\yutube05\yutube05\obj\Debug\net8.0\yutube05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3030897\source\repos\yutube05\yutube05\obj\Debug\net8.0\yutube05.AssemblyInfoInputs.cache
+C:\Users\3030897\source\repos\yutube05\yutube05\obj\Debug\net8.0\yutube05.AssemblyInfo.cs
+C:\Users\3030897\source\repos\yutube05\yutube05\obj\Debug\net8.0\yutube05.csproj.CoreCompileInputs.cache
+C:\Users\3030897\source\repos\yutube05\yutube05\obj\Debug\net8.0\yutube05.dll
+C:\Users\3030897\source\repos\yutube05\yutube05\obj\Debug\net8.0\refint\yutube05.dll
+C:\Users\3030897\source\repos\yutube05\yutube05\obj\Debug\net8.0\yutube05.pdb
+C:\Users\3030897\source\repos\yutube05\yutube05\obj\Debug\net8.0\yutube05.genruntimeconfig.cache
+C:\Users\3030897\source\repos\yutube05\yutube05\obj\Debug\net8.0\ref\yutube05.dll
