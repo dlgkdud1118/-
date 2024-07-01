@@ -16,6 +16,7 @@ namespace Tetris
         private int rotationState;
         private Position offset;
 
+
         public Block()
         {
             offset = new Position(StartOffset.Row, StartOffset.Column);

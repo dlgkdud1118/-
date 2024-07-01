@@ -6,6 +6,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
+    <PackageIcon>Icon.ico</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
@@ -18,7 +19,6 @@
     <None Remove="Assets\Block-S.png" />
     <None Remove="Assets\Block-T.png" />
     <None Remove="Assets\Block-Z.png" />
-    <None Remove="Assets\Icon.ico" />
     <None Remove="Assets\TileBlue.png" />
     <None Remove="Assets\TileCyan.png" />
     <None Remove="Assets\TileEmpty.png" />
@@ -48,6 +48,13 @@
     <Resource Include="Assets\TilePurple.png" />
     <Resource Include="Assets\TileRed.png" />
     <Resource Include="Assets\TileYellow.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Assets\Icon.ico">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>

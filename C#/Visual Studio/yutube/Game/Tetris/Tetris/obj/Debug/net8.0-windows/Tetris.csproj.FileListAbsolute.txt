@@ -2,3 +2,24 @@ C:\Users\3030897\source\repos\Tetris\Tetris\obj\Debug\net8.0-windows\MainWindow.
 C:\Users\3030897\source\repos\Tetris\Tetris\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\3030897\source\repos\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris_MarkupCompile.cache
 C:\Users\3030897\source\repos\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris_MarkupCompile.lref
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris_MarkupCompile.cache
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris_MarkupCompile.lref
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\bin\Debug\net8.0-windows\Tetris.exe
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\bin\Debug\net8.0-windows\Tetris.deps.json
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\bin\Debug\net8.0-windows\Tetris.runtimeconfig.json
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\bin\Debug\net8.0-windows\Tetris.dll
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\bin\Debug\net8.0-windows\Tetris.pdb
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.g.resources
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.AssemblyInfoInputs.cache
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.AssemblyInfo.cs
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.sourcelink.json
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.dll
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\obj\Debug\net8.0-windows\refint\Tetris.dll
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.pdb
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.genruntimeconfig.cache
+C:\Users\3030897\Desktop\dlgkdud\ziltusou\ziltusyuu\C#\Visual Studio\yutube\Game\Tetris\Tetris\obj\Debug\net8.0-windows\ref\Tetris.dll
